@@ -8,5 +8,5 @@ RTX3060(Ubuntu 14.04; Institute of Medical Imaging; 3060Ti (16GB);)
 ## HOW TO RUN:
 The only thing you should do is enter the dataset.py and correct the path of the datasets. then run ~ example:
 ''' 
-   python main.py --action train&test --arch UNet --epoch 24 --batch_size 8
+   python main.py --action train&test --arch UNet --epoch 24 --batch_size 8/python
    ''' 
